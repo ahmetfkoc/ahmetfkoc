@@ -21,7 +21,7 @@
 
   ---
 
-  ### Currently building
+  ### Some of my work
 
   | Project | What it is |
   |---|---|
